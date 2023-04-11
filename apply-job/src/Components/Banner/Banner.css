@@ -1,0 +1,34 @@
+.banner-back {
+	background-color: #f9f9ff;
+	display: flex;
+	justify-content: center;
+}
+.banner {
+	display: flex;
+	justify-content: space-between;
+	max-width: 1320px;
+	min-width: 80%;
+}
+.banner-words {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.banner-words-content {
+	max-width: 570px;
+	max-height: 511px;
+}
+#bigHead {
+	font-weight: 800;
+	font-size: 80px;
+	color: #1a1919;
+	margin-bottom: 24px;
+}
+#bigHead-highlight {
+	color: #9873ff;
+}
+#smallHead {
+	font-size: 18px;
+	color: #757575;
+	margin-bottom: 32px;
+}
