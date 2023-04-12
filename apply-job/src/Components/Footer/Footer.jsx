@@ -27,25 +27,23 @@ const Footer = () => {
 						<p>Careers</p>
 					</div>
 					<div>
-						<p className="columHead">Column 3</p>
-						<p>List Item 1</p>
-						<p>List Item 2</p>
-						<p>List Item 3</p>
-						<p>List Item 4</p>
+						<p className="columHead">Product</p>
+						<p>Prototype </p>
+						<p>Plans & Pricing</p>
+						<p>Integrations</p>
+						<p>Customers</p>
 					</div>
 					<div>
-						<p className="columHead">Column 4</p>
-						<p>List Item 1</p>
-						<p>List Item 2</p>
-						<p>List Item 3</p>
-						<p>List Item 4</p>
+						<p className="columHead">Support</p>
+						<p>Help Desk</p>
+						<p>Sales</p>
+						<p>Become a Partner</p>
+						<p>Developers</p>
 					</div>
 					<div>
-						<p className="columHead">Column 5</p>
-						<p>List Item 1</p>
-						<p>List Item 2</p>
-						<p>List Item 3</p>
-						<p>List Item 4</p>
+						<p className="columHead">Contact</p>
+						<p>524 Broadway. NYC</p>
+						<p>+1777-978-5570</p>
 					</div>
 				</div>
 				<hr
