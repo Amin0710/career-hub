@@ -1,0 +1,434 @@
+[
+	{
+		"JobId": "5821f1b0",
+		"JobTitle": "Software Engineer",
+		"Salary": "$70,000 - $90,000",
+		"CompanyName": "Acme Corporation",
+		"CompanyLogo": "../src/assets/Logo/acme.png",
+		"CompanyLocation": {
+			"city": "Los Angeles",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@acme.com",
+			"Address": "123 Main St, Los Angeles, CA 90012"
+		},
+		"JobType": "Full tneime",
+		"JobLocation": "On-Site",
+		"JobCategory": "Information Technology",
+		"CategoryIcon": "../src/assets/Icons/chip.png",
+		"JobDescription": "We're seeking a talented software engineer to join our team and help build cutting-edge software solutions.",
+		"JobResponsibility": "Design, develop, and maintain software applications. Write clean, maintainable, and scalable code. Collaborate with cross-functional teams to deliver high-quality software solutions. Participate in code reviews and ensure code quality. Stay up-to-date with emerging technologies and trends in software engineering.",
+		"EducationalRequirements": "Bachelor's degree in Computer Science or related field.",
+		"Experiences": "3+ years of experience in software engineering."
+	},
+	{
+		"JobId": "81b0a2d4",
+		"JobTitle": "Data Scientist",
+		"Salary": "$90,000 - $120,000",
+		"CompanyName": "Google",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "Mountain View",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@google.com",
+			"Address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Information Technology",
+		"CategoryIcon": "../src/assets/Icons/chip.png",
+		"JobDescription": "We're looking for an experienced data scientist to join our team and help analyze large data sets and build predictive models.",
+		"JobResponsibility": "Analyze large data sets and develop predictive models. Collaborate with cross-functional teams to identify business problems and opportunities. Communicate results and insights to technical and non-technical stakeholders. Stay up-to-date with emerging trends and technologies in data science and machine learning.",
+		"EducationalRequirements": "Master's or PhD in Computer Science, Statistics, or related field.",
+		"Experiences": "5+ years of experience in data science or machine learning."
+	},
+	{
+		"JobId": "36c7e9f5",
+		"JobTitle": "Marketing Manager",
+		"Salary": "$80,000 - $100,000",
+		"CompanyName": "Facebook",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "Menlo Park",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@facebook.com",
+			"Address": "1 Hacker Way, Menlo Park, CA 94025"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Marketing",
+		"CategoryIcon": "../src/assets/Icons/marketing.png",
+		"JobDescription": "We're seeking a creative and analytical marketing manager to help develop and execute marketing strategies.",
+		"JobResponsibility": "Develop and execute marketing strategies to drive business growth. Collaborate with cross-functional teams to create compelling marketing campaignsand content. Analyze and report on marketing campaign performance. Stay up-to-date with emerging trends and technologies in marketing and advertising.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Marketing, Communications, or related field.",
+		"Experiences": "5+ years of experience in marketing or advertising."
+	},
+	{
+		"JobId": "9f0bca1d",
+		"JobTitle": "Product Manager",
+		"Salary": "$100,000 - $130,000",
+		"CompanyName": "Tesla",
+		"CompanyLogo": "../src/assets/Logo/tesla.png",
+		"CompanyLocation": {
+			"city": "Palo Alto",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@tesla.com",
+			"Address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Product Management",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking an experienced product manager to help drive the development of innovative software products.",
+		"JobResponsibility": "Lead the product development process from ideation to launch. Define product requirements and prioritize product features. Collaborate with cross-functional teams to ensure timely and high-quality product releases. Stay up-to-date with emerging trends and technologies in software product development.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Business Administration, or related field.",
+		"Experiences": "5+ years of experience in product management or software development."
+	},
+	{
+		"JobId": "b79f4e7a",
+		"JobTitle": "UI/UX Designer",
+		"Salary": "$70,000 - $90,000",
+		"CompanyName": "Netflix",
+		"CompanyLogo": "../src/assets/Logo/netflix.png",
+		"CompanyLocation": {
+			"city": "Los Gatos",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@netflix.com",
+			"Address": "100 Winchester Circle, Los Gatos, CA 95032"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Design",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a talented UI/UX designer to help create beautiful and intuitive interfaces for our software products.",
+		"JobResponsibility": "Design and prototype user interfaces for software products. Conduct user research and gather feedback to inform design decisions. Collaborate with cross-functional teams to ensure consistency and high quality across products. Stay up-to-date with emerging trends and technologies in UI/UX design.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Human-Computer Interaction, or related field.",
+		"Experiences": "3+ years of experience in UI/UX design."
+	},
+	{
+		"JobId": "0652d8f9",
+		"JobTitle": "Sales Manager",
+		"Salary": "$80,000 - $100,000",
+		"CompanyName": "Instagram",
+		"CompanyLogo": "../src/assets/Logo/In.png",
+		"CompanyLocation": {
+			"city": "Menlo Park",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@instagram.com",
+			"Address": "1 Hacker Way, Menlo Park, CA 94025"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Sales",
+		"CategoryIcon": "../src/assets/Icons/accounts.png",
+		"JobDescription": "We're seeking an experienced sales manager to lead our sales team and drive revenue growth.",
+		"JobResponsibility": "Develop and execute sales strategies to meet revenue goals. Lead and mentor the sales team to achieve sales targets. Build and maintain relationships with key customers. Analyze sales data and provide insights to inform sales strategies. Stay up-to-date with emerging trends and technologies in sales management.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Business Administration, Sales, or related field.",
+		"Experiences": "5+ years of experience in sales management or related field."
+	},
+	{
+		"JobId": "f7d0e1b8",
+		"JobTitle": "Data Analyst",
+		"Salary": "$60,000 - $80,000",
+		"CompanyName": "Twitter",
+		"CompanyLogo": "../src/assets/Logo/tw.png",
+		"CompanyLocation": {
+			"city": "San Francisco",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@twitter.com",
+			"Address": "1355 Market Street, Suite 900, San Francisco, CA 94103"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Data Analysis",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a talented data analyst to help analyze and interpret data for our clients.",
+		"JobResponsibility": "Analyze and interpret data using statistical methods. Develop and maintain reports and dashboards to communicate findings. Collaborate with cross-functional teams to provide insights and recommendations. Stay up-to-date with emerging trends and technologies in data analysis.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Statistics, Mathematics, Computer Science, or related field.",
+		"Experiences": "3+ years of experience in data analysis or related field."
+	},
+	{
+		"JobId": "4be316a7",
+		"JobTitle": "Content Writer",
+		"Salary": "$50,000 - $70,000",
+		"CompanyName": "Creative Content Solutions, LLC",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "Los Angeles",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@creativecontent.com",
+			"Address": "123 Main St, Los Angeles, CA 90001"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Content Creation",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a talented content writer to help create compelling content for our clients.",
+		"JobResponsibility": "Create and edit content for various channels, including web, social media, and email. Conduct research and gather information to inform content development. Collaborate with cross-functional teams to ensure content aligns with brand voice and messaging. Stay up-to-date with emerging trends and technologies in content creation.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Communications, English, Journalism, or related field.",
+		"Experiences": "3+ years of experience in content creation or related field."
+	},
+	{
+		"JobId": "e0c9542f",
+		"JobTitle": "Human Resources Manager",
+		"Salary": "$90,000 - $110,000",
+		"CompanyName": "People Solutions, Inc.",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "Atlanta",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@peoplesolutions.com",
+			"Address": "123 Main St, Atlanta, GA 30301"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Human Resources",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking an experienced HR manager to lead our HR team and ensure our company attracts, retains, and develops top talent.",
+		"JobResponsibility": "Develop and implement HR policies and procedures. Oversee recruitment, training, and development of employees. Manage employee relations and performance management. Ensure compliance with legal requirements and industry standards. Stay up-to-date with emerging trends and technologies in HR management.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Human Resources, Business Administration, or related field.",
+		"Experiences": "7+ years of experience in HR management or related field."
+	},
+	{
+		"JobId": "1a9d58c6",
+		"JobTitle": "Graphic Designer",
+		"Salary": "$50,000 - $70,000",
+		"CompanyName": "Visual Solutions, Inc.",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "New York",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@visualsolutions.com",
+			"Address": "123 Main St, New York, NY 10001"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Graphic Design",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a talented graphic designer to help create visually stunning designs for our clients.",
+		"JobResponsibility": "Develop and execute designs for various projects, including branding, web, and print. Collaborate with cross-functional teams to ensure designs align with brand standards and messaging. Stay up-to-date with emerging trends and technologies in graphic design.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Fine Arts, or related field.",
+		"Experiences": "3+ years of experience in graphic design or related field."
+	},
+	{
+		"JobId": "76e2d0b3",
+		"JobTitle": "Software Engineer",
+		"Salary": "$80,000 - $100,000",
+		"CompanyName": "Innovative Software Solutions, LLC",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "Seattle",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@innovativesoftware.com",
+			"Address": "123 Main St, Seattle, WA 98101"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Software Development",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a skilled software engineer to help develop innovative software solutions for our clients.",
+		"JobResponsibility": "Design, develop, and maintain software applications using modern programming languages and technologies. Collaborate with cross-functional teams to deliver high-quality software products. Write clean, maintainable, and efficient code. Stay up-to-date with emerging trends and technologies in software development.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
+		"Experiences": "5+ years of experience in software development or related field."
+	},
+	{
+		"JobId": "c4e3a8f7",
+		"JobTitle": "Marketing Manager",
+		"Salary": "$70,000 - $90,000",
+		"CompanyName": "Digital Marketing Solutions, LLC",
+		"CompanyLogo": "../src/assets/Logo/google.png",
+		"CompanyLocation": {
+			"city": "Denver",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@digitalmarketing.com",
+			"Address": "123 Main St, Denver, CO 80202"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Marketing",
+		"CategoryIcon": "../src/assets/Icons/marketing.png",
+		"JobDescription": "We're seeking a dynamic marketing manager to develop and execute effective marketing strategies for our clients.",
+		"JobResponsibility": "Develop and implement marketing plans that align with client goals and objectives. Manage and coordinate marketing campaigns, including social media, email, and SEO/SEM. Collaborate with cross-functional teams to develop content and creative assets. Stay up-to-date with emerging trends and technologies in marketing.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Marketing, Business Administration, or related field.",
+		"Experiences": "5+ years of experience in marketing or related field."
+	},
+	{
+		"JobId": "3b4d6a8c",
+		"JobTitle": "Financial Analyst",
+		"Salary": "$60,000 - $80,000",
+		"CompanyName": "Quantitative Analytics, Inc.",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "Chicago",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@quantanalytics.com",
+			"Address": "123 Main St, Chicago, IL 60601"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Finance",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a detail-oriented financial analyst to help us analyze and interpret financial data for our clients.",
+		"JobResponsibility": "Analyze financial data and provide insights to clients. Develop financial models and forecasts. Collaborate with cross-functional teams to provide strategic recommendations. Stay up-to-date with emerging trends and technologies in financial analysis.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Finance, Accounting, or related field.",
+		"Experiences": "3+ years of experience in financial analysis or related field."
+	},
+	{
+		"JobId": "a0d1b3e7",
+		"JobTitle": "Operations Manager",
+		"Salary": "$80,000 - $100,000",
+		"CompanyName": "Global Operations Solutions, LLC",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "Houston",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@globops.com",
+			"Address": "123 Main St, Houston, TX 77002"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Operations",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking an experienced operations manager to oversee our company's operations and ensure operational efficiency and effectiveness.",
+		"JobResponsibility": "Develop and implement operational policies and procedures. Oversee the day-to-day operations of the company. Monitor and analyze key performance indicators to identify areas for improvement. Collaborate with cross-functional teams to develop and implement strategies for achieving operational goals. Stay up-to-date with emerging trends and technologies in operations management.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Operations Management, Business Administration, or related field.",
+		"Experiences": "7+ years of experience in operations management or related field."
+	},
+	{
+		"JobId": "5c6f8a9d",
+		"JobTitle": "Sales Representative",
+		"Salary": "$40,000 - $60,000",
+		"CompanyName": "Sales Solutions, Inc.",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "Miami",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@salessolutions.com",
+			"Address": "123 Main St, Miami, FL 33131"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Sales",
+		"CategoryIcon": "../src/assets/Icons/accounts.png",
+		"JobDescription": "We're seeking a driven sales representative to join our team and help us grow our business.",
+		"JobResponsibility": "Identify and pursue new sales opportunities. Build and maintain relationships with clients. Meet and exceed sales targets. Collaborate with cross-functional teams to develop and implement sales strategies. Stay up-to-date with emerging trends and technologies in sales.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Sales, Business Administration, or related field.",
+		"Experiences": "2+ years of experience in sales or related field."
+	},
+	{
+		"JobId": "d2b6c5f8",
+		"JobTitle": "Software Engineer",
+		"Salary": "$80,000 - $120,000",
+		"CompanyName": "Innovative Software, Inc.",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "San Francisco",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@innovativesoftware.com",
+			"Address": "123 Main St, San Francisco, CA 94105"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Software Development",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking an experienced software engineer to join our team and help us build innovative software solutions.",
+		"JobResponsibility": "Design and develop software applications using modern software development technologies. Collaborate with cross-functional teams to design, develop, and deploy software solutions. Write clean, scalable, and maintainable code. Participate in code reviews and help ensure code quality. Stay up-to-date with emerging trends and technologies in software development.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
+		"Experiences": "5+ years of experience in software development or related field."
+	},
+	{
+		"JobId": "8a1d7f0b",
+		"JobTitle": "Graphic Designer",
+		"Salary": "$50,000 - $70,000",
+		"CompanyName": "Creative Designs, LLC",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "New York",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@creativedesigns.com",
+			"Address": "123 Main St, New York, NY 10001"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Design",
+		"CategoryIcon": "../src/assets/Icons/design.png",
+		"JobDescription": "We're seeking a creative graphic designer to join our team and help us create engaging designs for our clients.",
+		"JobResponsibility": "Design and create graphics for a variety of media, including print, web, and social media. Collaborate with cross-functional teams to develop and implement design strategies. Stay up-to-date with emerging trends and technologies in graphic design.",
+		"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Visual Arts, or related field.",
+		"Experiences": "2+ years of experience in graphic design or related field."
+	},
+	{
+		"JobId": "f8e9c2b1",
+		"JobTitle": "Web Developer",
+		"Salary": "$80,000 - $100,000",
+		"CompanyName": "Microsoft Corporation",
+		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLocation": {
+			"city": "Redmond",
+			"country": "USA"
+		},
+		"ContactInformation": {
+			"Phone": "555-1234",
+			"Email": "jobs@microsoft.com",
+			"Address": "One Microsoft Way, Redmond, WA 98052"
+		},
+		"JobType": "Full time",
+		"JobLocation": "On-Site",
+		"JobCategory": "Information Technology",
+		"CategoryIcon": "../src/assets/Icons/chip.png",
+		"JobDescription": "We're looking for an experienced web developer to join our team and help build cutting-edge web applications.",
+		"JobResponsibility": "Develop and maintain web applications using modern web technologies. Collaborate with cross-functional teams to design, develop, and deploy web solutions. Write clean, scalable, and maintainable code. Participate in code reviews and help ensure code quality. Stay up-to-date with emerging trends and technologies in web development.",
+		"EducationalRequirements": "Bachelor's degree in Computer Science or related field.",
+		"Experiences": "3+ years of experience in web development."
+	}
+]
