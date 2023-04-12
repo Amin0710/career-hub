@@ -1,0 +1,24 @@
+{
+	"JobId": 6,
+	"JobTitle": "Data Analyst",
+	"Salary": "$60,000 - $80,000",
+	"CompanyName": "Twitter",
+	"CompanyLogo": "../src/assets/Logo/tw.png",
+	"CompanyLocation": {
+		"city": "San Francisco",
+		"country": "USA"
+	},
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@twitter.com",
+		"Address": "1355 Market Street, Suite 900, San Francisco, CA 94103"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Data Analysis",
+	"CategoryIcon": "../src/assets/Icons/design.png",
+	"JobDescription": "We're seeking a talented data analyst to help analyze and interpret data for our clients.",
+	"JobResponsibility": "Analyze and interpret data using statistical methods. Develop and maintain reports and dashboards to communicate findings. Collaborate with cross-functional teams to provide insights and recommendations. Stay up-to-date with emerging trends and technologies in data analysis.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Statistics, Mathematics, Computer Science, or related field.",
+	"Experiences": "3+ years of experience in data analysis or related field."
+}

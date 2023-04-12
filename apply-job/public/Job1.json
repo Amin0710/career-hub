@@ -1,0 +1,24 @@
+{
+	"JobId": 1,
+	"JobTitle": "Data Scientist",
+	"Salary": "$90,000 - $120,000",
+	"CompanyName": "Google",
+	"CompanyLogo": "../src/assets/Logo/google.png",
+	"CompanyLocation": {
+		"city": "Mountain View",
+		"country": "USA"
+	},
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@google.com",
+		"Address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Information Technology",
+	"CategoryIcon": "../src/assets/Icons/chip.png",
+	"JobDescription": "We're looking for an experienced data scientist to join our team and help analyze large data sets and build predictive models.",
+	"JobResponsibility": "Analyze large data sets and develop predictive models. Collaborate with cross-functional teams to identify business problems and opportunities. Communicate results and insights to technical and non-technical stakeholders. Stay up-to-date with emerging trends and technologies in data science and machine learning.",
+	"EducationalRequirements": "Master's or PhD in Computer Science, Statistics, or related field.",
+	"Experiences": "5+ years of experience in data science or machine learning."
+}

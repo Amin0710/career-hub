@@ -46,12 +46,7 @@ const Footer = () => {
 						<p>+1777-978-5570</p>
 					</div>
 				</div>
-				<hr
-					style={{
-						border: "1px solid #ffffffb2",
-						width: "100%",
-						margin: "30px 0",
-					}}></hr>
+				<hr className="hr"></hr>
 				<div id="footer-content-bottom">
 					<p>
 						@2023 <span className="bold">CareerHub</span>. All Rights Reserved

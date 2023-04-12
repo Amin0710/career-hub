@@ -1,0 +1,43 @@
+.tabBlackground {
+	background: linear-gradient(
+		90deg,
+		rgba(126, 144, 254, 0.1) 0%,
+		rgba(152, 115, 255, 0.1) 100%
+	);
+	border-radius: 8px;
+	padding: 30px;
+	margin-bottom: 24px;
+	font-size: 20px;
+}
+.CategoryName {
+	margin: 0;
+}
+.flexAlign {
+	display: flex;
+	align-items: center;
+	margin: 8px 0;
+}
+.tabhr {
+	border: 1px solid #7e90feb2;
+	width: 100%;
+	margin: 24px 0;
+}
+#secondTitle {
+	margin-top: 24px;
+}
+.tabTextTitle {
+	color: #474747;
+	font-weight: 700;
+}
+.tabText {
+	color: #757575;
+	font-weight: 500;
+	margin: 0;
+}
+.tabBlackground img {
+	height: 24px;
+	width: 24px;
+}
+.applyButton {
+	width: 100%;
+}

@@ -1,0 +1,24 @@
+{
+	"JobId": 3,
+	"JobTitle": "Product Manager",
+	"Salary": "$100,000 - $130,000",
+	"CompanyName": "Tesla",
+	"CompanyLogo": "../src/assets/Logo/tesla.png",
+	"CompanyLocation": {
+		"city": "Palo Alto",
+		"country": "USA"
+	},
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@tesla.com",
+		"Address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Product Management",
+	"CategoryIcon": "../src/assets/Icons/design.png",
+	"JobDescription": "We're seeking an experienced product manager to help drive the development of innovative software products.",
+	"JobResponsibility": "Lead the product development process from ideation to launch. Define product requirements and prioritize product features. Collaborate with cross-functional teams to ensure timely and high-quality product releases. Stay up-to-date with emerging trends and technologies in software product development.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Business Administration, or related field.",
+	"Experiences": "5+ years of experience in product management or software development."
+}

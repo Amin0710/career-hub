@@ -1,0 +1,24 @@
+{
+	"JobId": 2,
+	"JobTitle": "Marketing Manager",
+	"Salary": "$80,000 - $100,000",
+	"CompanyName": "Facebook",
+	"CompanyLogo": "../src/assets/Logo/facebook.png",
+	"CompanyLocation": {
+		"city": "Menlo Park",
+		"country": "USA"
+	},
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@facebook.com",
+		"Address": "1 Hacker Way, Menlo Park, CA 94025"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Remote",
+	"JobCategory": "Marketing",
+	"CategoryIcon": "../src/assets/Icons/marketing.png",
+	"JobDescription": "We're seeking a creative and analytical marketing manager to help develop and execute marketing strategies.",
+	"JobResponsibility": "Develop and execute marketing strategies to drive business growth. Collaborate with cross-functional teams to create compelling marketing campaignsand content. Analyze and report on marketing campaign performance. Stay up-to-date with emerging trends and technologies in marketing and advertising.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Marketing, Communications, or related field.",
+	"Experiences": "5+ years of experience in marketing or advertising."
+}

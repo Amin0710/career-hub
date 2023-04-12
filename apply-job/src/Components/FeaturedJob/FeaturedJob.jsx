@@ -1,9 +1,11 @@
 import React from "react";
 import "./FeaturedJob.css";
+import { Link } from "react-router-dom";
 import locationImg from "../../assets/Icons/Frame-4.png";
 import moneyImg from "../../assets/Icons/Frame.png";
 
 const FeaturedJob = ({ FeaturedJobs, index }) => {
+	const id = FeaturedJobs[index].JobId;
 	return (
 		<div className="FeaturedBox">
 			<div>
@@ -30,7 +32,9 @@ const FeaturedJob = ({ FeaturedJobs, index }) => {
 					</p>
 				</div>
 			</div>
-			<button className="viewButton">View Details</button>
+			<button className="viewButton">
+				<Link to={`/job/${id}`}>View Details</Link>
+			</button>
 		</div>
 	);
 };
