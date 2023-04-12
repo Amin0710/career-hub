@@ -1,0 +1,29 @@
+.outerBody {
+	display: flex;
+	justify-content: center;
+}
+.innerBody {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	max-width: 1320px;
+	min-width: 80%;
+}
+.sectionHead {
+	font-weight: 800;
+	font-size: 48px;
+	text-align: center;
+	margin-bottom: 16px;
+	margin-top: 100px;
+}
+.sectionBody {
+	font-weight: 500;
+	color: #757575;
+	text-align: center;
+	margin-bottom: 32px;
+}
+.CategoryBoxContainer {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 25px;
+}
