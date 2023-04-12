@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
 import CategoryBox from "../CategoryBox/CategoryBox";
 import "./JobCategory.css";
@@ -6,11 +6,16 @@ import "./JobCategory.css";
 const JobCategory = () => {
 	const jobs = useLoaderData();
 	let count = 0;
-	const JobCategories = [];
-	const CategoryIcons = [];
-	{
-		jobs.map((j) => JobCategories.push(j.JobCategory));
-	}
+	const [newJobs, setnewJobs] = useState([]);
+	let JobCategories = [];
+	let CategoryIcons = [];
+
+	useEffect(() => {
+		JobCategories = [];
+		newJobs.forEach((j) => JobCategories.push(j.JobCategory));
+		setnewJobs(jobs);
+	}, [jobs]);
+
 	const jobCounts = JobCategories.reduce((acc, job) => {
 		if (!acc[job]) {
 			acc[job] = 1;
@@ -24,8 +29,9 @@ const JobCategory = () => {
 	const topJobs = sortedJobs.slice(0, 4);
 	const topJobsNames = topJobs.map((topjob) => topjob[0]);
 
-	{
-		jobs.map((j) => {
+	useEffect(() => {
+		CategoryIcons = [];
+		newJobs.forEach((j) => {
 			if (
 				topJobsNames.includes(j.JobCategory) &&
 				!CategoryIcons.includes(j.CategoryIcon)
@@ -33,7 +39,8 @@ const JobCategory = () => {
 				CategoryIcons.push(j.CategoryIcon);
 			}
 		});
-	}
+		setnewJobs(jobs);
+	}, [jobs]);
 
 	return (
 		<div className="outerBody">
