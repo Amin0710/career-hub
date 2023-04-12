@@ -1,0 +1,34 @@
+.FeaturedBox {
+	border-radius: 8px;
+	border: 1px solid #e8e8e8;
+	padding: 40px;
+}
+.FeaturedName {
+	font-size: 24px;
+	color: #474747;
+	font-weight: 800;
+	margin-top: 32px;
+	margin-bottom: 8px;
+}
+.FeaturedDetails {
+	font-weight: 500;
+	font-size: 20px;
+	color: #757575;
+	margin: 0;
+	padding-right: 24px;
+}
+.FeaturedDetailsBox {
+	border: 1px solid #9873ff;
+	border-radius: 8px;
+	padding: 9px 19px;
+	color: #7e90fe;
+	font-weight: 800;
+	margin-right: 16px;
+}
+.detailsIconImg {
+	margin-right: 8px;
+}
+.viewButton {
+	margin-top: 24px;
+	padding: 11px 18px;
+}

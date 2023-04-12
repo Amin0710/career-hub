@@ -15,7 +15,7 @@
 			"Address": "123 Main St, Los Angeles, CA 90012"
 		},
 		"JobType": "Full tneime",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Information Technology",
 		"CategoryIcon": "../src/assets/Icons/chip.png",
 		"JobDescription": "We're seeking a talented software engineer to join our team and help build cutting-edge software solutions.",
@@ -39,7 +39,7 @@
 			"Address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Information Technology",
 		"CategoryIcon": "../src/assets/Icons/chip.png",
 		"JobDescription": "We're looking for an experienced data scientist to join our team and help analyze large data sets and build predictive models.",
@@ -52,7 +52,7 @@
 		"JobTitle": "Marketing Manager",
 		"Salary": "$80,000 - $100,000",
 		"CompanyName": "Facebook",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "Menlo Park",
 			"country": "USA"
@@ -63,7 +63,7 @@
 			"Address": "1 Hacker Way, Menlo Park, CA 94025"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Remote",
 		"JobCategory": "Marketing",
 		"CategoryIcon": "../src/assets/Icons/marketing.png",
 		"JobDescription": "We're seeking a creative and analytical marketing manager to help develop and execute marketing strategies.",
@@ -87,7 +87,7 @@
 			"Address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Product Management",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking an experienced product manager to help drive the development of innovative software products.",
@@ -111,7 +111,7 @@
 			"Address": "100 Winchester Circle, Los Gatos, CA 95032"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Remote",
 		"JobCategory": "Design",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a talented UI/UX designer to help create beautiful and intuitive interfaces for our software products.",
@@ -135,7 +135,7 @@
 			"Address": "1 Hacker Way, Menlo Park, CA 94025"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Sales",
 		"CategoryIcon": "../src/assets/Icons/accounts.png",
 		"JobDescription": "We're seeking an experienced sales manager to lead our sales team and drive revenue growth.",
@@ -159,7 +159,7 @@
 			"Address": "1355 Market Street, Suite 900, San Francisco, CA 94103"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Data Analysis",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a talented data analyst to help analyze and interpret data for our clients.",
@@ -183,7 +183,7 @@
 			"Address": "123 Main St, Los Angeles, CA 90001"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Content Creation",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a talented content writer to help create compelling content for our clients.",
@@ -207,7 +207,7 @@
 			"Address": "123 Main St, Atlanta, GA 30301"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Human Resources",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking an experienced HR manager to lead our HR team and ensure our company attracts, retains, and develops top talent.",
@@ -231,7 +231,7 @@
 			"Address": "123 Main St, New York, NY 10001"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Graphic Design",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a talented graphic designer to help create visually stunning designs for our clients.",
@@ -255,7 +255,7 @@
 			"Address": "123 Main St, Seattle, WA 98101"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Software Development",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a skilled software engineer to help develop innovative software solutions for our clients.",
@@ -279,7 +279,7 @@
 			"Address": "123 Main St, Denver, CO 80202"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Marketing",
 		"CategoryIcon": "../src/assets/Icons/marketing.png",
 		"JobDescription": "We're seeking a dynamic marketing manager to develop and execute effective marketing strategies for our clients.",
@@ -292,7 +292,7 @@
 		"JobTitle": "Financial Analyst",
 		"Salary": "$60,000 - $80,000",
 		"CompanyName": "Quantitative Analytics, Inc.",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "Chicago",
 			"country": "USA"
@@ -303,7 +303,7 @@
 			"Address": "123 Main St, Chicago, IL 60601"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Finance",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a detail-oriented financial analyst to help us analyze and interpret financial data for our clients.",
@@ -316,7 +316,7 @@
 		"JobTitle": "Operations Manager",
 		"Salary": "$80,000 - $100,000",
 		"CompanyName": "Global Operations Solutions, LLC",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "Houston",
 			"country": "USA"
@@ -327,7 +327,7 @@
 			"Address": "123 Main St, Houston, TX 77002"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Operations",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking an experienced operations manager to oversee our company's operations and ensure operational efficiency and effectiveness.",
@@ -340,7 +340,7 @@
 		"JobTitle": "Sales Representative",
 		"Salary": "$40,000 - $60,000",
 		"CompanyName": "Sales Solutions, Inc.",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "Miami",
 			"country": "USA"
@@ -351,7 +351,7 @@
 			"Address": "123 Main St, Miami, FL 33131"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Sales",
 		"CategoryIcon": "../src/assets/Icons/accounts.png",
 		"JobDescription": "We're seeking a driven sales representative to join our team and help us grow our business.",
@@ -364,7 +364,7 @@
 		"JobTitle": "Software Engineer",
 		"Salary": "$80,000 - $120,000",
 		"CompanyName": "Innovative Software, Inc.",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "San Francisco",
 			"country": "USA"
@@ -375,7 +375,7 @@
 			"Address": "123 Main St, San Francisco, CA 94105"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Software Development",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking an experienced software engineer to join our team and help us build innovative software solutions.",
@@ -388,7 +388,7 @@
 		"JobTitle": "Graphic Designer",
 		"Salary": "$50,000 - $70,000",
 		"CompanyName": "Creative Designs, LLC",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "New York",
 			"country": "USA"
@@ -399,7 +399,7 @@
 			"Address": "123 Main St, New York, NY 10001"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Design",
 		"CategoryIcon": "../src/assets/Icons/design.png",
 		"JobDescription": "We're seeking a creative graphic designer to join our team and help us create engaging designs for our clients.",
@@ -412,7 +412,7 @@
 		"JobTitle": "Web Developer",
 		"Salary": "$80,000 - $100,000",
 		"CompanyName": "Microsoft Corporation",
-		"CompanyLogo": "../src/assets/Logo/fb.png",
+		"CompanyLogo": "../src/assets/Logo/facebook.png",
 		"CompanyLocation": {
 			"city": "Redmond",
 			"country": "USA"
@@ -423,7 +423,7 @@
 			"Address": "One Microsoft Way, Redmond, WA 98052"
 		},
 		"JobType": "Full time",
-		"JobLocation": "On-Site",
+		"JobLocation": "Onsite",
 		"JobCategory": "Information Technology",
 		"CategoryIcon": "../src/assets/Icons/chip.png",
 		"JobDescription": "We're looking for an experienced web developer to join our team and help build cutting-edge web applications.",

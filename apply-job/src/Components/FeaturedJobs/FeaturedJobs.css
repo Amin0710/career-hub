@@ -1,0 +1,14 @@
+.FeaturedJobsContainer {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 24px;
+}
+.flexCenter {
+	display: flex;
+	justify-content: center;
+}
+#seeAllButton {
+	max-width: 174px;
+	margin-bottom: 100px;
+	margin-top: 40px;
+}
