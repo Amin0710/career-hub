@@ -11,10 +11,9 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 }
-#logo {
+.logo {
 	font-weight: 800;
 	font-size: 32px;
-	color: #1a1919;
 }
 nav a {
 	margin-right: 25px;
