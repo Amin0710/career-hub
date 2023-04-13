@@ -5,6 +5,7 @@ import AppliedJobs from "./Components/AppliedJobs/AppliedJobs";
 import Home from "./Components/Home/Home";
 import JobDetails from "./Components/JobDetails/JobDetails";
 import Layout from "./Components/Layout/Layout";
+import Statistics from "./Components/Statistics/Statistics";
 import "./index.css";
 import appliedJobLoader from "./Loaders/appliedJobLoader";
 
@@ -25,7 +26,7 @@ const router = createBrowserRouter([
 			},
 			{
 				path: "/Statistics",
-				element: <Home></Home>,
+				element: <Statistics></Statistics>,
 			},
 			{
 				path: "/AppliedJobs",
