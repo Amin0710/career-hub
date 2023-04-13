@@ -1,4 +1,3 @@
-import { useRouteError } from "react-router-dom";
 import SubBanner from "./Components/SubBanner/SubBanner";
 
 export default function ErrorPage() {
