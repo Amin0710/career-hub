@@ -4,7 +4,7 @@
 	grid-template-columns: 2fr 1fr;
 	gap: 24px;
 	color: #757575;
-	max-width: 1320px;
+	width: min(1320px, 80%);
 }
 .title {
 	color: #1a1919;

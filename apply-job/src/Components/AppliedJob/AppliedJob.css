@@ -1,0 +1,26 @@
+.appliedJob {
+	width: min(1320px, 80%);
+	border-radius: 8px;
+	border: 1px solid #e8e8e8;
+	padding: 30px;
+	height: 240px;
+	margin: 12px 0;
+	display: flex;
+}
+.appliedJobLogo {
+	border-radius: 8px;
+	width: 240px;
+	height: 240px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #f4f4f4;
+}
+.flexBetween {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	max-width: 990px;
+	margin-left: 32px;
+}

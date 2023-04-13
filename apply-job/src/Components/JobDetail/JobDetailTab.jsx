@@ -5,6 +5,11 @@ import moneyImg from "../../assets/Icons/Frame.png";
 import jobImg from "../../assets/Icons/Frame-1.png";
 import phoneImg from "../../assets/Icons/Frame-2.png";
 import emailImg from "../../assets/Icons/Frame-3.png";
+import { addToDb } from "../../Utilities/fakeDB";
+
+const handleAppliedJobs = (id) => {
+	addToDb(id);
+};
 
 const JobDetailTab = ({ job }) => {
 	return (
@@ -52,7 +57,11 @@ const JobDetailTab = ({ job }) => {
 					</p>
 				</div>
 			</div>
-			<button className="applyButton">Apply Now</button>
+			<button
+				onClick={() => handleAppliedJobs(job.JobId)}
+				className="applyButton">
+				Apply Now
+			</button>
 		</div>
 	);
 };

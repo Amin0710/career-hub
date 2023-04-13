@@ -5,8 +5,7 @@
 	background-color: #f9f9ff;
 }
 nav {
-	max-width: 1320px;
-	min-width: 80%;
+	width: min(1320px, 80%);
 	display: flex;
 	justify-content: space-between;
 	align-items: center;

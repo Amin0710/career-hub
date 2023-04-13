@@ -1,10 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import AppliedJobs from "./Components/AppliedJobs/AppliedJobs";
 import Home from "./Components/Home/Home";
 import JobDetails from "./Components/JobDetails/JobDetails";
 import Layout from "./Components/Layout/Layout";
 import "./index.css";
+import appliedJobLoader from "./Loaders/appliedJobLoader";
 
 const router = createBrowserRouter([
 	{
@@ -26,8 +28,9 @@ const router = createBrowserRouter([
 				element: <Home></Home>,
 			},
 			{
-				path: "/Applied-Jobs",
-				element: <Home></Home>,
+				path: "/AppliedJobs",
+				element: <AppliedJobs></AppliedJobs>,
+				loader: appliedJobLoader,
 			},
 			{
 				path: "/Blog",
