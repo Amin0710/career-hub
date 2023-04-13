@@ -3,7 +3,7 @@
 	"JobTitle": "Product Manager",
 	"Salary": "$100,000 - $130,000",
 	"CompanyName": "Tesla",
-	"CompanyLogo": "../src/assets/Logo/tesla.png",
+	"CompanyLogo": "./Logo/tesla.png",
 	"CompanyLocation": {
 		"city": "Palo Alto",
 		"country": "USA"

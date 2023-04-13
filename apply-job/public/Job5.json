@@ -3,7 +3,7 @@
 	"JobTitle": "Sales Manager",
 	"Salary": "$80,000 - $100,000",
 	"CompanyName": "Instagram",
-	"CompanyLogo": "../src/assets/Logo/In.png",
+	"CompanyLogo": "./Logo/In.png",
 	"CompanyLocation": {
 		"city": "Menlo Park",
 		"country": "USA"

@@ -3,7 +3,7 @@
 	"JobTitle": "Data Scientist",
 	"Salary": "$90,000 - $120,000",
 	"CompanyName": "Google",
-	"CompanyLogo": "../src/assets/Logo/google.png",
+	"CompanyLogo": "./Logo/google.png",
 	"CompanyLocation": {
 		"city": "Mountain View",
 		"country": "USA"

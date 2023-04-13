@@ -3,7 +3,7 @@
 	"JobTitle": "Marketing Manager",
 	"Salary": "$80,000 - $100,000",
 	"CompanyName": "Facebook",
-	"CompanyLogo": "../src/assets/Logo/facebook.png",
+	"CompanyLogo": "./Logo/facebook.png",
 	"CompanyLocation": {
 		"city": "Menlo Park",
 		"country": "USA"

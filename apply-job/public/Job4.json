@@ -3,7 +3,7 @@
 	"JobTitle": "UI/UX Designer",
 	"Salary": "$70,000 - $90,000",
 	"CompanyName": "Netflix",
-	"CompanyLogo": "../src/assets/Logo/netflix.png",
+	"CompanyLogo": "./Logo/netflix.png",
 	"CompanyLocation": {
 		"city": "Los Gatos",
 		"country": "USA"

@@ -3,7 +3,7 @@
 	"JobTitle": "Data Analyst",
 	"Salary": "$60,000 - $80,000",
 	"CompanyName": "Twitter",
-	"CompanyLogo": "../src/assets/Logo/tw.png",
+	"CompanyLogo": "./Logo/tw.png",
 	"CompanyLocation": {
 		"city": "San Francisco",
 		"country": "USA"

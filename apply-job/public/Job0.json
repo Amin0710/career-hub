@@ -3,7 +3,7 @@
 	"JobTitle": "Software Engineer",
 	"Salary": "$70,000 - $90,000",
 	"CompanyName": "Acme Corporation",
-	"CompanyLogo": "../src/assets/Logo/acme.png",
+	"CompanyLogo": "./Logo/acme.png",
 	"CompanyLocation": {
 		"city": "Los Angeles",
 		"country": "USA"
