@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import ActiveLink from "../Activelink/Activelink";
 import "./Header.css";
 
 const Header = () => {
@@ -8,10 +9,10 @@ const Header = () => {
 			<nav>
 				<div className="logo">ApplyJob</div>
 				<div>
-					<Link to="/">Home</Link>
-					<Link to="/Statistics">Statistics</Link>
-					<Link to="/AppliedJobs">Applied Jobs</Link>
-					<Link to="/Blog">Blog</Link>
+					<ActiveLink to="/">Home</ActiveLink>
+					<ActiveLink to="/Statistics">Statistics</ActiveLink>
+					<ActiveLink to="/AppliedJobs">Applied Jobs</ActiveLink>
+					<ActiveLink to="/Blog">Blog</ActiveLink>
 				</div>
 				<button>Star Applying</button>
 			</nav>

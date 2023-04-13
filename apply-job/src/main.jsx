@@ -2,10 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AppliedJobs from "./Components/AppliedJobs/AppliedJobs";
+import Blog from "./Components/Blog/Blog";
 import Home from "./Components/Home/Home";
 import JobDetails from "./Components/JobDetails/JobDetails";
 import Layout from "./Components/Layout/Layout";
 import Statistics from "./Components/Statistics/Statistics";
+import ErrorPage from "./error-page";
 import "./index.css";
 import appliedJobLoader from "./Loaders/appliedJobLoader";
 
@@ -35,7 +37,11 @@ const router = createBrowserRouter([
 			},
 			{
 				path: "/Blog",
-				element: <Home></Home>,
+				element: <Blog></Blog>,
+			},
+			{
+				path: "*",
+				element: <ErrorPage />,
 			},
 		],
 	},

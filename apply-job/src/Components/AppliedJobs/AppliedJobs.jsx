@@ -6,9 +6,10 @@ import "./AppliedJobs.css";
 
 const AppliedJobs = () => {
 	const appliedJobs = useLoaderData();
+	const Head = "Applied Jobs";
 	return (
 		<div>
-			<SubBanner></SubBanner>
+			<SubBanner Head={Head}></SubBanner>
 			<div className="appliedJobContainer">
 				{appliedJobs.map((j, i) => (
 					<AppliedJob
