@@ -11,6 +11,9 @@ const AppliedJobs = () => {
 		<div>
 			<SubBanner Head={Head}></SubBanner>
 			<div className="appliedJobContainer">
+				<div id="FilterBy">
+					<button>Filter By ⬇️</button>
+				</div>
 				{appliedJobs.map((j, i) => (
 					<AppliedJob
 						key={j.JobId}

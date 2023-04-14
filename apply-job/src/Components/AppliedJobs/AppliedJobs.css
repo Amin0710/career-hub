@@ -4,3 +4,12 @@
 	align-items: center;
 	margin-top: 130px;
 }
+#FilterBy button {
+	background: #f4f4f4;
+	color: #474747;
+}
+#FilterBy {
+	width: min(1320px, 80%);
+	display: flex;
+	justify-content: right;
+}
