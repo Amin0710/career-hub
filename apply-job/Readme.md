@@ -16,3 +16,5 @@ If you click on the "Apply Job" button link from the navigation bar, you can see
 If you go to the "Statistics" link from the navigation bar, you can see all my assignment marks and my percentage.
 
 Finally, you can see a few basic Q&A in the "Blog" link from Nettbar.
+
+This is the Website link: https://stupendous-cranachan-24fc9e.netlify.app/

@@ -36,6 +36,10 @@
 	text-decoration: none;
 	color: white;
 }
+.logoImg {
+	max-height: 35px;
+	max-width: 270px;
+}
 .flexi {
 	display: flex;
 }

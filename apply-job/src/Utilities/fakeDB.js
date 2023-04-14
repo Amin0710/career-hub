@@ -19,4 +19,4 @@ const getAppliedJobs = () => {
 	return appliedJobs;
 };
 
-export { addToDb, getAppliedJobs };
+export { addToDb };

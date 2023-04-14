@@ -30,6 +30,7 @@
 @media only screen and (max-width: 600px) {
 	.banner {
 		flex-direction: column;
+		padding-top: 30px;
 	}
 	.banner img {
 		width: 100%;

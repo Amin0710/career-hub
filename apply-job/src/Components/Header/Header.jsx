@@ -1,22 +1,15 @@
 import React from "react";
+import { showHide } from "../../Utilities/showHide";
 import menu from "../../assets/All-Images/menu.png";
 import ActiveLink from "../Activelink/Activelink";
 import "./Header.css";
 
 const Header = () => {
-	const showLinks = () => {
-		const x = document.getElementById("links");
-		if (x.style.display === "none") {
-			x.style.display = "flex";
-		} else {
-			x.style.display = "none";
-		}
-	};
 	return (
 		<header className="header">
 			<nav id="nav">
 				<div className="logo">ApplyJob</div>
-				<div onClick={showLinks} className="semi-none">
+				<div onClick={() => showHide("links", "flex")} className="semi-none">
 					<img src={menu} alt="" />
 				</div>
 				<div id="links">
