@@ -1,6 +1,6 @@
 #Website Readme.md
 
-This is a job application website with a navigation bar at the top that includes Home, Statistics, Applied Jobs, and Blog. Clicking on any of these links will take you to a new React component.
+This is a job application website with a navigation bar at the top that includes Home, Statistics, Applied Jobs, and Blog. Clicking on any of these links will take you to a new React component in new React route.
 
 Below the navigation bar, you will see Banner then job categories. No action is required here.
 
