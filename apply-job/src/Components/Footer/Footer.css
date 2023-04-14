@@ -39,7 +39,6 @@ footer img {
 
 @media only screen and (max-width: 600px) {
 	#footer-content-top {
-		display: grid;
 		grid-template-columns: 1fr;
 		gap: 10px;
 	}

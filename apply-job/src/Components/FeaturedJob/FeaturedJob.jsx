@@ -17,7 +17,7 @@ const FeaturedJob = ({ FeaturedJobs, index }) => {
 				<p className="FeaturedDetailsBox">{FeaturedJobs[index].JobLocation}</p>
 				<p className="FeaturedDetailsBox">{FeaturedJobs[index].JobType}</p>
 			</div>
-			<div className="flex">
+			<div className="flexi">
 				<div className="flex">
 					<img className="detailsIconImg" src={locationImg} alt="" />
 					<p className="FeaturedDetails">
@@ -26,7 +26,7 @@ const FeaturedJob = ({ FeaturedJobs, index }) => {
 					</p>
 				</div>
 				<div className="flex">
-					<img className="detailsIconImg" src={moneyImg} alt="" />
+					<img className="detailsIconImg none" src={moneyImg} alt="" />
 					<p className="FeaturedDetails">
 						Salary : {FeaturedJobs[index].Salary}
 					</p>

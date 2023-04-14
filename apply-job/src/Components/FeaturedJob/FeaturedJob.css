@@ -36,3 +36,11 @@
 	text-decoration: none;
 	color: white;
 }
+.flexi {
+	display: flex;
+}
+@media only screen and (max-width: 600px) {
+	.flexi {
+		flex-direction: column;
+	}
+}
