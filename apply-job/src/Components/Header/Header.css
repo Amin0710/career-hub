@@ -23,3 +23,31 @@ nav a:hover {
 	color: #9873ff;
 	font-weight: 800;
 }
+.semi-none {
+	display: none;
+}
+.semi-none img {
+	height: 100px;
+	width: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+	#nav {
+		position: relative;
+	}
+	#links {
+		display: none;
+		flex-direction: column;
+		position: absolute;
+		top: 100%;
+		right: 0;
+		margin-top: 10px;
+		text-align: end;
+	}
+	.none {
+		display: none;
+	}
+	.semi-none {
+		display: block;
+	}
+}
