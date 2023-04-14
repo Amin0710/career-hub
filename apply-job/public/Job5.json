@@ -4,10 +4,7 @@
 	"Salary": "$80,000 - $100,000",
 	"CompanyName": "Instagram",
 	"CompanyLogo": "./Logo/In.png",
-	"CompanyLocation": {
-		"city": "Menlo Park",
-		"country": "USA"
-	},
+	"CompanyLocation": { "city": "Menlo Park", "country": "USA" },
 	"ContactInformation": {
 		"Phone": "555-1234",
 		"Email": "jobs@instagram.com",
@@ -16,7 +13,7 @@
 	"JobType": "Full time",
 	"JobLocation": "Onsite",
 	"JobCategory": "Sales",
-	"CategoryIcon": "../src/assets/Icons/accounts.png",
+	"CategoryIcon": "./Icons/accounts.png",
 	"JobDescription": "We're seeking an experienced sales manager to lead our sales team and drive revenue growth.",
 	"JobResponsibility": "Develop and execute sales strategies to meet revenue goals. Lead and mentor the sales team to achieve sales targets. Build and maintain relationships with key customers. Analyze sales data and provide insights to inform sales strategies. Stay up-to-date with emerging trends and technologies in sales management.",
 	"EducationalRequirements": "Bachelor's or Master's degree in Business Administration, Sales, or related field.",

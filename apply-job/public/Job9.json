@@ -1,0 +1,21 @@
+{
+	"JobId": 9,
+	"JobTitle": "Graphic Designer",
+	"Salary": "$50,000 - $70,000",
+	"CompanyName": "Visual Solutions, Inc.",
+	"CompanyLogo": "./Logo/google.png",
+	"CompanyLocation": { "city": "New York", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@visualsolutions.com",
+		"Address": "123 Main St, New York, NY 10001"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Graphic Design",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking a talented graphic designer to help create visually stunning designs for our clients.",
+	"JobResponsibility": "Develop and execute designs for various projects, including branding, web, and print. Collaborate with cross-functional teams to ensure designs align with brand standards and messaging. Stay up-to-date with emerging trends and technologies in graphic design.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Fine Arts, or related field.",
+	"Experiences": "3+ years of experience in graphic design or related field."
+}

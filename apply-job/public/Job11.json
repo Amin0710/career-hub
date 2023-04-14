@@ -1,0 +1,21 @@
+{
+	"JobId": 11,
+	"JobTitle": "Marketing Manager",
+	"Salary": "$70,000 - $90,000",
+	"CompanyName": "Digital Marketing Solutions, LLC",
+	"CompanyLogo": "./Logo/google.png",
+	"CompanyLocation": { "city": "Denver", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@digitalmarketing.com",
+		"Address": "123 Main St, Denver, CO 80202"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Marketing",
+	"CategoryIcon": "./Icons/marketing.png",
+	"JobDescription": "We're seeking a dynamic marketing manager to develop and execute effective marketing strategies for our clients.",
+	"JobResponsibility": "Develop and implement marketing plans that align with client goals and objectives. Manage and coordinate marketing campaigns, including social media, email, and SEO/SEM. Collaborate with cross-functional teams to develop content and creative assets. Stay up-to-date with emerging trends and technologies in marketing.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Marketing, Business Administration, or related field.",
+	"Experiences": "5+ years of experience in marketing or related field."
+}

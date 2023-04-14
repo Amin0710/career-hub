@@ -1,0 +1,21 @@
+{
+	"JobId": 10,
+	"JobTitle": "Software Engineer",
+	"Salary": "$80,000 - $100,000",
+	"CompanyName": "Innovative Software Solutions, LLC",
+	"CompanyLogo": "./Logo/google.png",
+	"CompanyLocation": { "city": "Seattle", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@innovativesoftware.com",
+		"Address": "123 Main St, Seattle, WA 98101"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Software Development",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking a skilled software engineer to help develop innovative software solutions for our clients.",
+	"JobResponsibility": "Design, develop, and maintain software applications using modern programming languages and technologies. Collaborate with cross-functional teams to deliver high-quality software products. Write clean, maintainable, and efficient code. Stay up-to-date with emerging trends and technologies in software development.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
+	"Experiences": "5+ years of experience in software development or related field."
+}

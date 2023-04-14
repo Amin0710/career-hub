@@ -1,0 +1,21 @@
+{
+	"JobId": 13,
+	"JobTitle": "Operations Manager",
+	"Salary": "$80,000 - $100,000",
+	"CompanyName": "Global Operations Solutions, LLC",
+	"CompanyLogo": "./Logo/facebook.png",
+	"CompanyLocation": { "city": "Houston", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@globops.com",
+		"Address": "123 Main St, Houston, TX 77002"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Operations",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking an experienced operations manager to oversee our company's operations and ensure operational efficiency and effectiveness.",
+	"JobResponsibility": "Develop and implement operational policies and procedures. Oversee the day-to-day operations of the company. Monitor and analyze key performance indicators to identify areas for improvement. Collaborate with cross-functional teams to develop and implement strategies for achieving operational goals. Stay up-to-date with emerging trends and technologies in operations management.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Operations Management, Business Administration, or related field.",
+	"Experiences": "7+ years of experience in operations management or related field."
+}

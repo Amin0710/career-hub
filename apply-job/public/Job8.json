@@ -1,0 +1,21 @@
+{
+	"JobId": 8,
+	"JobTitle": "Human Resources Manager",
+	"Salary": "$90,000 - $110,000",
+	"CompanyName": "People Solutions, Inc.",
+	"CompanyLogo": "./Logo/google.png",
+	"CompanyLocation": { "city": "Atlanta", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@peoplesolutions.com",
+		"Address": "123 Main St, Atlanta, GA 30301"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Human Resources",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking an experienced HR manager to lead our HR team and ensure our company attracts, retains, and develops top talent.",
+	"JobResponsibility": "Develop and implement HR policies and procedures. Oversee recruitment, training, and development of employees. Manage employee relations and performance management. Ensure compliance with legal requirements and industry standards. Stay up-to-date with emerging trends and technologies in HR management.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Human Resources, Business Administration, or related field.",
+	"Experiences": "7+ years of experience in HR management or related field."
+}

@@ -1,0 +1,21 @@
+{
+	"JobId": 16,
+	"JobTitle": "Graphic Designer",
+	"Salary": "$50,000 - $70,000",
+	"CompanyName": "Creative Designs, LLC",
+	"CompanyLogo": "./Logo/facebook.png",
+	"CompanyLocation": { "city": "New York", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@creativedesigns.com",
+		"Address": "123 Main St, New York, NY 10001"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Design",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking a creative graphic designer to join our team and help us create engaging designs for our clients.",
+	"JobResponsibility": "Design and create graphics for a variety of media, including print, web, and social media. Collaborate with cross-functional teams to develop and implement design strategies. Stay up-to-date with emerging trends and technologies in graphic design.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Visual Arts, or related field.",
+	"Experiences": "2+ years of experience in graphic design or related field."
+}

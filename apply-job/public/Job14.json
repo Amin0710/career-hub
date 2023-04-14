@@ -1,0 +1,21 @@
+{
+	"JobId": 14,
+	"JobTitle": "Sales Representative",
+	"Salary": "$40,000 - $60,000",
+	"CompanyName": "Sales Solutions, Inc.",
+	"CompanyLogo": "./Logo/facebook.png",
+	"CompanyLocation": { "city": "Miami", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@salessolutions.com",
+		"Address": "123 Main St, Miami, FL 33131"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Sales",
+	"CategoryIcon": "./Icons/accounts.png",
+	"JobDescription": "We're seeking a driven sales representative to join our team and help us grow our business.",
+	"JobResponsibility": "Identify and pursue new sales opportunities. Build and maintain relationships with clients. Meet and exceed sales targets. Collaborate with cross-functional teams to develop and implement sales strategies. Stay up-to-date with emerging trends and technologies in sales.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Sales, Business Administration, or related field.",
+	"Experiences": "2+ years of experience in sales or related field."
+}

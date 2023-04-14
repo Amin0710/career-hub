@@ -1,0 +1,21 @@
+{
+	"JobId": 15,
+	"JobTitle": "Software Engineer",
+	"Salary": "$80,000 - $120,000",
+	"CompanyName": "Innovative Software, Inc.",
+	"CompanyLogo": "./Logo/facebook.png",
+	"CompanyLocation": { "city": "San Francisco", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@innovativesoftware.com",
+		"Address": "123 Main St, San Francisco, CA 94105"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Software Development",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking an experienced software engineer to join our team and help us build innovative software solutions.",
+	"JobResponsibility": "Design and develop software applications using modern software development technologies. Collaborate with cross-functional teams to design, develop, and deploy software solutions. Write clean, scalable, and maintainable code. Participate in code reviews and help ensure code quality. Stay up-to-date with emerging trends and technologies in software development.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.",
+	"Experiences": "5+ years of experience in software development or related field."
+}

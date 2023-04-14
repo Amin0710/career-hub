@@ -4,10 +4,7 @@
 	"Salary": "$70,000 - $90,000",
 	"CompanyName": "Acme Corporation",
 	"CompanyLogo": "./Logo/acme.png",
-	"CompanyLocation": {
-		"city": "Los Angeles",
-		"country": "USA"
-	},
+	"CompanyLocation": { "city": "Los Angeles", "country": "USA" },
 	"ContactInformation": {
 		"Phone": "555-1234",
 		"Email": "jobs@acme.com",
@@ -16,7 +13,7 @@
 	"JobType": "Full tneime",
 	"JobLocation": "Onsite",
 	"JobCategory": "Information Technology",
-	"CategoryIcon": "../src/assets/Icons/chip.png",
+	"CategoryIcon": "./Icons/chip.png",
 	"JobDescription": "We're seeking a talented software engineer to join our team and help build cutting-edge software solutions.",
 	"JobResponsibility": "Design, develop, and maintain software applications. Write clean, maintainable, and scalable code. Collaborate with cross-functional teams to deliver high-quality software solutions. Participate in code reviews and ensure code quality. Stay up-to-date with emerging technologies and trends in software engineering.",
 	"EducationalRequirements": "Bachelor's degree in Computer Science or related field.",

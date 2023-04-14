@@ -1,0 +1,21 @@
+{
+	"JobId": 7,
+	"JobTitle": "Content Writer",
+	"Salary": "$50,000 - $70,000",
+	"CompanyName": "Creative Content Solutions, LLC",
+	"CompanyLogo": "./Logo/google.png",
+	"CompanyLocation": { "city": "Los Angeles", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@creativecontent.com",
+		"Address": "123 Main St, Los Angeles, CA 90001"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Content Creation",
+	"CategoryIcon": "./Icons/design.png",
+	"JobDescription": "We're seeking a talented content writer to help create compelling content for our clients.",
+	"JobResponsibility": "Create and edit content for various channels, including web, social media, and email. Conduct research and gather information to inform content development. Collaborate with cross-functional teams to ensure content aligns with brand voice and messaging. Stay up-to-date with emerging trends and technologies in content creation.",
+	"EducationalRequirements": "Bachelor's or Master's degree in Communications, English, Journalism, or related field.",
+	"Experiences": "3+ years of experience in content creation or related field."
+}

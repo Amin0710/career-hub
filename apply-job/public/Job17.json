@@ -1,0 +1,21 @@
+{
+	"JobId": 17,
+	"JobTitle": "Web Developer",
+	"Salary": "$80,000 - $100,000",
+	"CompanyName": "Microsoft Corporation",
+	"CompanyLogo": "./Logo/facebook.png",
+	"CompanyLocation": { "city": "Redmond", "country": "USA" },
+	"ContactInformation": {
+		"Phone": "555-1234",
+		"Email": "jobs@microsoft.com",
+		"Address": "One Microsoft Way, Redmond, WA 98052"
+	},
+	"JobType": "Full time",
+	"JobLocation": "Onsite",
+	"JobCategory": "Information Technology",
+	"CategoryIcon": "./Icons/chip.png",
+	"JobDescription": "We're looking for an experienced web developer to join our team and help build cutting-edge web applications.",
+	"JobResponsibility": "Develop and maintain web applications using modern web technologies. Collaborate with cross-functional teams to design, develop, and deploy web solutions. Write clean, scalable, and maintainable code. Participate in code reviews and help ensure code quality. Stay up-to-date with emerging trends and technologies in web development.",
+	"EducationalRequirements": "Bachelor's degree in Computer Science or related field.",
+	"Experiences": "3+ years of experience in web development."
+}

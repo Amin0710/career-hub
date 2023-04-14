@@ -4,10 +4,7 @@
 	"Salary": "$70,000 - $90,000",
 	"CompanyName": "Netflix",
 	"CompanyLogo": "./Logo/netflix.png",
-	"CompanyLocation": {
-		"city": "Los Gatos",
-		"country": "USA"
-	},
+	"CompanyLocation": { "city": "Los Gatos", "country": "USA" },
 	"ContactInformation": {
 		"Phone": "555-1234",
 		"Email": "jobs@netflix.com",
@@ -16,7 +13,7 @@
 	"JobType": "Full time",
 	"JobLocation": "Remote",
 	"JobCategory": "Design",
-	"CategoryIcon": "../src/assets/Icons/design.png",
+	"CategoryIcon": "./Icons/design.png",
 	"JobDescription": "We're seeking a talented UI/UX designer to help create beautiful and intuitive interfaces for our software products.",
 	"JobResponsibility": "Design and prototype user interfaces for software products. Conduct user research and gather feedback to inform design decisions. Collaborate with cross-functional teams to ensure consistency and high quality across products. Stay up-to-date with emerging trends and technologies in UI/UX design.",
 	"EducationalRequirements": "Bachelor's or Master's degree in Graphic Design, Human-Computer Interaction, or related field.",
