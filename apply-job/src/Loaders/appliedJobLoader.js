@@ -1,4 +1,4 @@
-import { getAppliedJobs } from "../utilities/fakedb";
+import { getAppliedJobs } from "../utilities/fakeDB";
 
 const appliedJobLoader = async () => {
 	const loadedJobs = await fetch("/Jobs.json");

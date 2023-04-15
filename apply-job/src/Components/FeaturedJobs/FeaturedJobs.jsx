@@ -12,7 +12,6 @@ const FeaturedJobs = () => {
 	const FeaturedCompanies = ["Google", "Facebook", "Tesla", "Netflix"];
 	const FeaturedJobs = [];
 	const OtherJobs = [];
-	console.log(OtherJobs);
 	{
 		jobs.map((j) => {
 			if (FeaturedCompanies.includes(j.CompanyName)) {

@@ -1,12 +1,14 @@
 import React from "react";
 import "./JobDetail.css";
 import { useLoaderData } from "react-router-dom";
+import { Toaster } from "react-hot-toast";
 import JobDetailTab from "./JobDetailTab";
 
 const JobDetail = () => {
 	const job = useLoaderData();
 	return (
 		<div className="flexCenter">
+			<Toaster />;
 			<div className="jobDetail">
 				<div>
 					<p>
